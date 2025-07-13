@@ -2,7 +2,9 @@
 
 ZAp DOT game using react = typescript +Vite
 
-How to use
+How to use to install the node dependency
 ``` npm install ```
-`` npm run dev ```
+
+To start the development server
+``` npm run dev ```
 Enjoy !!
