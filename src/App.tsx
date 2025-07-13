@@ -11,7 +11,7 @@ function App() {
   const [score, setScore] = useState(0);
   const [position, setPosition] = useState({ x: 10, y: 10 }); //moving object position
   const [positionScore, setPositionScore] = useState({ x: 100, y: 100 }); // score object position
-  const [isGameStart, setIsGameStart] = useState(true);
+  const [isGameStart, setIsGameStart] = useState(false);
   const [restartGameStart, setRestartGameStart] = useState(false);
   const [delay, setDelay] = useState(500);
   const [scorePostionDelay] = useState(10000);
